@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "enpies",
+        "scope": null,
+        "escapedName": "enpies",
+        "name": "enpies",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\enpies\\surum-bir"
+    ]
+  ],
+  "_from": "enpies@latest",
+  "_inCache": true,
+  "_location": "/enpies-client-node",
+  "_nodeVersion": "4.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/enpies-client-node-1.0.0.tgz_1486653401028_0.2982213117647916"
+  },
+  "_npmUser": {
+    "name": "enpies",
+    "email": "enpiescom@gmail.com"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "enpies",
+    "scope": null,
+    "escapedName": "enpies",
+    "name": "enpies",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/enpies-client-node/-/enpies-client-node-1.0.0.tgz",
+  "_shasum": "548ea7064ecaa0b43393e121465d6dc7de4f8d70",
+  "_shrinkwrap": null,
+  "_spec": "enpies",
+  "_where": "D:\\enpies\\surum-bir",
+  "author": "",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "description": "Enpies.com API Client NodeJS",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "548ea7064ecaa0b43393e121465d6dc7de4f8d70",
+    "tarball": "https://registry.npmjs.org/enpies-client-node/-/enpies-client-node-1.0.0.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "enpies <enpiescom@gmail.com>"
+  ],
+  "name": "enpies",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
